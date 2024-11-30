@@ -1,6 +1,4 @@
-Here’s your text with emojis added for better engagement! 🎮👋✊✌️  
 
----
 
 # 🎉 AI-Powered Rock-Paper-Scissors Game Using Hand Gestures ✋✊✌️
 
